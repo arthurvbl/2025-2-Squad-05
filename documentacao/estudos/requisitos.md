@@ -84,4 +84,7 @@ A análise de requisitos é uma das etapas mais importantes de um projeto. Sendo
 - WIEGERS, Karl. *Requisitos de software*  
 - POHL, Klaus. *Fundamentos de Engenharia de Requisitos*  
 
-Para o estudo de requisitos de software, foram utilizados como referência o site da DevMedia ([link](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580)) e vídeos do YouTube como meios de aprendizado. Já para os estudos sobre Git, utilizou-se novamente o YouTube, além de um material disponibilizado pela professora no site [https://mds.lappis.rocks/materials/](https://mds.lappis.rocks/materials/)
+DevMedia https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580
+https://www.youtube.com/watch?v=VcOeM2AD8Yk&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZdIHCQmtCQGHKiGM7w%3D%3D
+https://www.youtube.com/watch?v=xEdGAC0qzgY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D
+https://www.youtube.com/watch?v=eeb4uuP7nhY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D
