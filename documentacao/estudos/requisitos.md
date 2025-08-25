@@ -84,7 +84,7 @@ A análise de requisitos é uma das etapas mais importantes de um projeto. Sendo
 - WIEGERS, Karl. *Requisitos de software*  
 - POHL, Klaus. *Fundamentos de Engenharia de Requisitos*  
 
-DevMedia https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580
-https://www.youtube.com/watch?v=VcOeM2AD8Yk&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZdIHCQmtCQGHKiGM7w%3D%3D
-https://www.youtube.com/watch?v=xEdGAC0qzgY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D
-https://www.youtube.com/watch?v=eeb4uuP7nhY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D
+- [DevMedia](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580)
+- [YouTube: Requisitos de Software 1](https://www.youtube.com/watch?v=VcOeM2AD8Yk&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZdIHCQmtCQGHKiGM7w%3D%3D)
+- [YouTube: Requisitos de Software 2](https://www.youtube.com/watch?v=xEdGAC0qzgY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D)
+- [YouTube: Requisitos de Software 3](https://www.youtube.com/watch?v=eeb4uuP7nhY&pp=ygUWcmVxdWlzaXRvcyBkZSBzb2Z0d2FyZQ%3D%3D)
