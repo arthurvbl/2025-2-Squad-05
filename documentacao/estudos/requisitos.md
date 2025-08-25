@@ -1,43 +1,77 @@
-# Análise de requisitos de software
+Análise de requisitos de software
+📈 Conceitos fundamentais
 
-## 📈 Conceitos fundamentais
-* A **análise de requisitos** é uma das etapas iniciais do ciclo de vida de todo software.
-* É nessa etapa que serão coletadas informações do que o cliente deseja que seu sistema possua.
-* Com os dados obtidos, a equipe realiza um **levantamento** do que o sistema deve ter para que atenda às expectativas do stakeholder.
+A análise de requisitos é uma das etapas iniciais do ciclo de vida de todo software.
 
-## ❓ Por que fazer a análise?
-* Descreve como o sistema deve ser desenvolvido.
-* Fornece um roadmap aos envolvidos no projeto.
-* Cria a base para a documentação.
-* Sintoniza a comunicação da equipe.
-* Diminui os riscos tomados em cada etapa do desenvolvimento.
+É nessa etapa que serão coletadas informações do que o cliente deseja que seu sistema possua.
 
-## 📍 Etapas 
+Com os dados obtidos, a equipe realiza um levantamento do que o sistema deve ter para que atenda às expectativas do stakeholder.
 
-### 1. Levantamento
-* Aqui é feita a identificação dos requisitos por meio de técnicas de levantamentos (como Brainstorm, por exemplo). 
+O que são requisitos de software?
+São as descrições detalhadas das funcionalidades e restrições que o sistema deve atender.
 
-### 2. Documentação
-* Nesta etapa os requisitos levantados são registrados para que se tenha uma visão mais ampla do que foi obtido.
+❓ Por que fazer a análise?
 
-### 3. Validação
-* Por fim, são validados os requisitos analisados para garantir que tudo está conforme o que foi solicitado pelo cliente.
+Descreve como o sistema deve ser desenvolvido.
 
-## ✅ Técnicas de levantamento de requisitos
+Fornece um roadmap aos envolvidos no projeto.
 
-### Brainstorming
-* Consiste em encontros com o grupo com o objetivo de gerar ideias e identificar os requisitos mais relevantes para o projeto.
+Cria a base para a documentação.
 
-### Prototipagem
-* Com a criação de uma versão mais simples do projeto, é possível perceber as necessidades do sistema e coletar feedback dos usuários.
+Sintoniza a comunicação da equipe.
 
-### Entrevistas
-* Uma ótima maneira de se obter os requisitos de um software é uma comunicação clara com o cliente, assim é possivel alinhas as idéias e avaliar o escopo do projeto.
+Diminui os riscos tomados em cada etapa do desenvolvimento.
 
-## 💭 Observações
-* A análise de requisitos é uma das etapas mais importantes de um projeto, sendo assim, é necessário que seja feita da melhor forma possível para evitar problemas futuros de mal planejamento.
+Como são aplicados no mercado de trabalho?
+Servem como guia para desenvolvimento, documentação e testes, alinhando expectativas entre clientes e equipe técnica.
 
-## Referências
-[Técnicas para levantamento de requisitos](https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151)  
-WIEGERS, Karl. **Requisitos de software**  
-POHL, Klaus. **Fundamentos de Engenharia de Requisitos**
+📍 Etapas
+1. Levantamento
+
+Aqui é feita a identificação dos requisitos por meio de técnicas de levantamentos (como Brainstorm, por exemplo).
+
+2. Documentação
+
+Nesta etapa os requisitos levantados são registrados para que se tenha uma visão mais ampla do que foi obtido.
+
+Requisitos funcionais e não funcionais:
+
+Funcionais: Definem o que o sistema deve fazer (ex.: cadastro de usuários, emissão de relatórios).
+
+Não funcionais: Estabelecem critérios de desempenho, segurança, usabilidade, entre outros.
+
+3. Validação
+
+Por fim, são validados os requisitos analisados para garantir que tudo está conforme o que foi solicitado pelo cliente.
+
+✅ Técnicas de levantamento de requisitos
+Brainstorming
+
+Consiste em encontros com o grupo com o objetivo de gerar ideias e identificar os requisitos mais relevantes para o projeto.
+
+Prototipagem
+
+Com a criação de uma versão mais simples do projeto, é possível perceber as necessidades do sistema e coletar feedback dos usuários.
+
+Entrevistas
+
+Uma ótima maneira de se obter os requisitos de um software é uma comunicação clara com o cliente, assim é possivel alinhas as idéias e avaliar o escopo do projeto.
+
+💭 Observações
+
+A análise de requisitos é uma das etapas mais importantes de um projeto, sendo assim, é necessário que seja feita da melhor forma possível para evitar problemas futuros de mal planejamento.
+
+Exemplo prático para um sistema simples:
+
+Requisito funcional: "O sistema deve permitir login com autenticação por senha."
+
+Requisito não funcional: "O sistema deve suportar até 500 usuários simultâneos sem perda de desempenho."
+
+Referências
+
+Técnicas para levantamento de requisitos
+
+WIEGERS, Karl. Requisitos de software
+POHL, Klaus. Fundamentos de Engenharia de Requisitos
+
+Para o estudo de requisitos de software, foram utilizados como referência o site da DevMedia (link) e vídeos do YouTube como meios de aprendizado. Já para os estudos sobre Git, utilizou-se novamente o YouTube, além de um material disponibilizado pela professora no site https://mds.lappis.rocks/materials/
