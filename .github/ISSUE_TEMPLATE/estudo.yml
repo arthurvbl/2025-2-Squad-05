@@ -1,8 +1,7 @@
 name: Estudo
-about: Template para organizar tarefas e anotações de estudo
+description: Template para organizar tarefas e anotações de estudo
 title: "[ESTUDO]: "
 labels: "study"
-assignees: ''
 body:
   - type: markdown
     attributes:
